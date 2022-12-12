@@ -46,3 +46,13 @@ Prevent requests without valid authentication headers.
 
 Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server)
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
+
+
+Project:
+1. Git Repository
+
+2. Elastic Beanstalk URL
+http://udagram-image-filtering-xuanlt1-dev.us-east-1.elasticbeanstalk.com/
+
+3. The enpoint URL
+http://udagram-image-filtering-xuanlt1-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://dogtime.com/assets/uploads/gallery/miniature-pinscher-dog-breed-pictures/2-size.jpg
