@@ -50,6 +50,7 @@ Add your own domain name and have it point to the running services (try adding a
 
 Project:
 1. Git Repository
+https://github.com/xuanlt1991/image-filter-starter-code.git
 
 2. Elastic Beanstalk URL
 http://udagram-image-filtering-xuanlt1-dev.us-east-1.elasticbeanstalk.com/
